@@ -1,0 +1,10 @@
+Which language should I use ?
+
+c++ - dont want to pick that skill
+go - exciting, new, no dependencies, quick, GC ? gotta test
+
+which protocol should I use ?
+
+No clue. 
+First thing that pops into my mind is http - not a good idea... never seen one 
+use that before. Time to learn!!
